@@ -1,0 +1,6 @@
+{
+  "name": "Traffic Control Escape",
+  "description": "A mobile-first strategy traffic puzzle game. Control vehicle departures, switch traffic lights, toggle gates, and guide cars to their matching exits safely.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
